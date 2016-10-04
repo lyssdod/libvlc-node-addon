@@ -1,0 +1,18 @@
+{
+  "name": "libvlc-node-addon",
+  "author": "Alex Revin <lyssdod@gmail.com>",
+  "version": "0.0.1",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/lyssdod/libvlc-node-addon"
+  },
+  "scripts": {
+    "install": "cmake-js compile"
+  },
+  "license": "MIT",
+  "dependencies": {},
+  "devDependencies": {
+    "cmake-js": "3.3.1",
+    "nan": "^2.4.0"
+  }
+}
